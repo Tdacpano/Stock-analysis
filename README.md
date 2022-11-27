@@ -17,9 +17,11 @@ The analysis is well described with screenshots and code (4 pt).
 <img width="488" alt="VBA_Challenge_Before2018" src="https://user-images.githubusercontent.com/117120227/204113507-139fef84-0600-4663-aa7a-1d3514e2c669.png">
   
   When comparing it to the following image the new code shows it is more quick and efficient. The refactor code now able to process the data in 0.125 seconds, which is 0.554 seconds quicker.
+  
 <img width="532" alt="VBA_Challenge_2018 VBA" src="https://user-images.githubusercontent.com/117120227/204113509-adf7ee77-67f0-48a4-9331-2b8efa9ad174.png">
 
 # Summary
-There is a detailed statement on the advantages and disadvantages of refactoring code in general (3 pt).
-
-There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script (3 pt).
+  In conclusion, refactoring the code proved to be a more efficient and effective method of processing data. By refactoring the code it allows for a better understanding of what is actually occurring. It also allows for the code to appear more clean, allowing any individual to go through the code now or even in the future, and still have ability to comprehend what is transpiring. One of the only disadvantage of refactoring code is the process of going through the original code and adjusting it in order to include more data than previously. 
+ 
+How do these pros and cons apply to refactoring the original VBA script?
+  These pros and cons of applying a refactored code to the original script is that now the code will do everything the original did PLUS more! It not only runs for the 12 stocks in our data but now every stock in the stock market by the click of a button. It additionally, runs more efficient and quicker than the original. A possible con of applying refactoring to the original VBA script is that it took a few trial and error efforts in order for the code to fully work. Other than that the refactoring makes the original better structured so it is easier to understand along with the fact it runs more efficiently. 
