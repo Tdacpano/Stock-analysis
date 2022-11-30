@@ -15,7 +15,7 @@ Learning the basics of VBA through stock data.
   
 <img width="488" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/117120227/204113492-0cf2de80-95ea-415c-907f-446da984bf94.png">
  
- #2018 
+# 2018 
  Now the test must be run on the 2018 data to see if the refactored code works just as well with that data. As the image shows the original code ran in 0.679 seconds. Just about the same amount of time it took for the 2017 data.
  
 <img width="488" alt="VBA_Challenge_Before2018" src="https://user-images.githubusercontent.com/117120227/204113507-139fef84-0600-4663-aa7a-1d3514e2c669.png">
